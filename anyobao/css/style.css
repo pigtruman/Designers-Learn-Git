@@ -80,7 +80,7 @@ li{
 #ps { height: 302px;border: solid 1px #eee;width: 1024px; margin-top: 10px;}
 #ps .fl{ margin-top:10px;height:30px;border-bottom: #eeeeee solid 1px;width:1024px;}
 #ps .fl li{float:left;padding-left:30px;background:url(../images/pa_icon.jpg) 5px 3px  no-repeat;}
-#ps .item { height: 232px;width:318px;border: #eeeeee solid 1px;margin: 10px 0px 0px 20px;float: left;display: inline; } 
+#ps .item { height: 232px;width:318px;border: #eeeeee solid 1px;margin: 10px 0px 0px 17px;float: left;display: inline; }
 #ps .item p {background:url(../images/ps_t-bg.png) repeat-x; line-height:46px;}
 #ps .item ul {margin-left: 15px;}
 #ps .item li { float:left;}
